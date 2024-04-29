@@ -1,4 +1,4 @@
-### Hi there 👋
+Возможно я напишу здесь позже, но сейчас мне лень настраивать Github. Работу я тоже не ищу.
 
 <!--
 **diveloper53/diveloper53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
