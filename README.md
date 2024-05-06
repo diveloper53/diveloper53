@@ -1,5 +1,5 @@
 ### ✨ Возможно я напишу что-то здесь позже, но сейчас мне лень настраивать Github. ✨
-#### *Работу я тоже сейчас не ищу.*
+#### *В данный момент времени занят коммерческим проектом.*
 
 <!--
 **diveloper53/diveloper53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Diveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=diveloper53&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diveloper53&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diveloper53&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diveloper53&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+</a>
